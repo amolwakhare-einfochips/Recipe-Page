@@ -1,4 +1,4 @@
-/* ====== Global Styles ====== */
+
 body {
   background-color: #f3e5d8;
   font-family: 'Outfit', sans-serif;
@@ -9,7 +9,7 @@ body {
   justify-content: center;
 }
 
-/* ====== Main Container ====== */
+
 .container {
   max-width: 700px;
   background-color: #fff;
@@ -30,7 +30,7 @@ body {
   padding: 30px;
 }
 
-/* ====== Typography ====== */
+
 .title {
   font-family: 'Young Serif', serif;
   font-size: 32px;
@@ -44,7 +44,7 @@ body {
   line-height: 1.6;
 }
 
-/* ====== Preparation Time Box ====== */
+
 .prep-time {
   background-color: #fff5fa;
   border-radius: 12px;
@@ -68,7 +68,7 @@ body {
   font-size: 15px;
 }
 
-/* ====== Sections ====== */
+
 .section h2 {
   font-family: 'Young Serif', serif;
   font-size: 24px;
@@ -87,7 +87,7 @@ body {
   font-size: 15px;
 }
 
-/* ====== Nutrition Table ====== */
+
 .nutrition-table {
   margin-top: 15px;
   border-top: 1px solid #ddd;
@@ -105,7 +105,7 @@ body {
   font-weight: bold;
 }
 
-/* ====== Responsive Design ====== */
+
 @media (max-width: 600px) {
   body {
     background-color: #fff;
